@@ -12,6 +12,21 @@ The design follows a modular architecture where each hardware block performs a d
 
 ---
 
+## 🧪 Simulation Result
+
+The UART transmitter was verified using a Verilog testbench in Vivado Simulator.
+
+### UART Transmission Waveform
+
+![UART Transmission](waveforms/uart_tx_waveform.png)
+
+The waveform confirms:
+
+- Correct Start Bit generation
+- LSB-first data transmission
+- Correct baud timing
+- Proper Stop Bit generation
+
 ## ✨ Features
 
 - Modular RTL Design
