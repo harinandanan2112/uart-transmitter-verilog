@@ -1,3 +1,11 @@
 # Simulation Waveforms
 
-This directory contains waveform screenshots captured during UART transmitter simulation using GTKWave or Vivado Simulator.
+This folder contains simulation waveforms of the UART transmitter.
+
+Planned contents:
+
+- UART transmission waveform
+- Timing verification
+- Start bit
+- Data bits
+- Stop bit
