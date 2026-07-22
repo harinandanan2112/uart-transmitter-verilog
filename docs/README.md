@@ -1,3 +1,10 @@
 # Documentation
 
-This directory contains design documents, architecture diagrams, FSM diagrams, and other documentation for the UART transmitter project.
+This folder contains documentation related to the UART transmitter project.
+
+Planned contents:
+
+- Architecture Diagram
+- FSM Diagram
+- UART Frame Diagram
+- Design Notes
