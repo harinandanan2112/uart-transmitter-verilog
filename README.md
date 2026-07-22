@@ -27,6 +27,12 @@ The waveform confirms:
 - Correct baud timing
 - Proper Stop Bit generation
 
+## 🏗️ Architecture
+
+The UART transmitter consists of a Baud Rate Generator, UART Finite State Machine (FSM), Bit Counter, and Shift Register.
+
+![UART Architecture](docs/uart_tx_architecture.png)
+
 ## ✨ Features
 
 - Modular RTL Design
